@@ -1,16 +1,8 @@
-# counter_app_provider
+# Counter App With Provider
 
-A new Flutter project.
+<p>
+  <img src="https://github.com/user-attachments/assets/b6931f19-2048-48a8-af93-58ed0906bf4a" width="22%">
+  
 
-## Getting Started
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
